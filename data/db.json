@@ -1,0 +1,12 @@
+{
+  "cidades": [
+    {
+      "nome": "Florianópolis",
+      "id": 2
+    },
+    {
+      "nome": "Fortaleza",
+      "id": 3
+    }
+  ]
+}
